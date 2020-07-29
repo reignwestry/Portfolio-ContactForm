@@ -1,7 +1,7 @@
 
 //# CUSTOM IGNORES==========
 
-variables*
+
 variables
 PROJECT_DETAILS
 todo
