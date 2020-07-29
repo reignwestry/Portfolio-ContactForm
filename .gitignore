@@ -2,6 +2,8 @@
 //# CUSTOM IGNORES==========
 variables*
 variables
+projectDetails.txt
+
 //# ===============================
 
 
